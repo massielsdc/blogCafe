@@ -78,7 +78,7 @@ img {
 
 /*Header*/
 .header {
-    background-image: url(/blogdecafe_inicio/img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     height: 60rem;
     background-size: cover;
     background-repeat: no-repeat;
